@@ -15,7 +15,7 @@
 
 import pymysql
 
-db  = pymysql.connect("localhost", "root", "123456", "seckill")
+db = pymysql.connect("localhost", "root", "123456", "seckill")
 
 cursor = db.cursor()
 
