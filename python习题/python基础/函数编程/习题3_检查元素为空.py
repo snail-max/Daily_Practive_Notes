@@ -12,8 +12,6 @@ def cheackelement(*args):
 
 
 
-
-
 lis = [1,2,3]
 tuple = ()
 print(cheackelement(tuple))
